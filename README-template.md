@@ -11,8 +11,6 @@ Il s'agit d'une solution au [défi d'une Application générateur de conseils su
   - Construit avec](#built-with)
   - Ce que j'ai appris](#what-i-learned)
 - Auteur](#auteur)
-- Remerciements](#remerciements)
-
 
 ## Aperçu
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
@@ -25,25 +23,21 @@ Il s'agit d'une solution au [défi d'une Application générateur de conseils su
 ### Liens
 
 - Solution URL: (https://github.com/m3c-git/app-generateur-de-conseils)
-- Live Site URL: (https://m3c-git.github.io/cartes-fonctionnalites)
+- Live Site URL: (https://m3c-git.github.io/app-generateur-de-conseils)
 
 ## Mon processus
 
 ### Construit avec
 
 - Balisage sémantique HTML5
-- Propriétés CSS personnalisées
-- Flexbox
-- Grid CSS
+- Propriétés SCSS personnalisées
+- JavaScript
 - Media queries
 - Google font
-- ColorZilla
-
-
 
 ### Ce que j'ai appris
 
-Ce defi m'a permis de mettre en pratique les Flexbox, Grid CSS, Media queries. J'ai pu également utiliser ColorZilla pour récupérer des couleurs spécifique.
+Ce defi m'a permis de mettre en pratique la syntaxe SCSS via SASS, Media queries. J'ai pu également travailler les requête fetch et ma manipulation du DOM avec JavaScript. Ca m'a permis de commencer à travailler avec les API. 
 
 ## Auteur
 

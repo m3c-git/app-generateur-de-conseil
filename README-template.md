@@ -15,8 +15,12 @@ Il s'agit d'une solution au [défi d'une Application générateur de conseils su
 
 
 ## Aperçu
+![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
 ### Capture d'écran
+![Design preview for the Advice generator app coding challenge](./design/desktop_screenshot.png)
+
+![Design preview for the Advice generator app coding challenge](./design/mobile_screenshot.png)
 
 ### Liens
 
